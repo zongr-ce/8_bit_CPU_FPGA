@@ -2418,7 +2418,11 @@ applicable agreement for further details.
 	)
 )
 (symbol
+<<<<<<< HEAD
 	(rect 112 -16 208 720)
+=======
+	(rect 112 -8 208 728)
+>>>>>>> 12e7291ad286e2bd1994eeea31c919f8ba772ea4
 	(text "RAM_Cells" (rect 5 0 66 14)(font "Arial" (font_size 8)))
 	(text "inst" (rect 8 720 25 732)(font "Arial" ))
 	(port
@@ -3348,6 +3352,13 @@ applicable agreement for further details.
 	(pt -80 2168)
 )
 (connector
+<<<<<<< HEAD
+=======
+	(pt -80 2168)
+	(pt -80 680)
+)
+(connector
+>>>>>>> 12e7291ad286e2bd1994eeea31c919f8ba772ea4
 	(pt -440 512)
 	(pt -440 384)
 )
@@ -3540,6 +3551,57 @@ applicable agreement for further details.
 	(pt -888 -96)
 )
 (connector
+<<<<<<< HEAD
+=======
+	(pt 224 -24)
+	(pt 224 24)
+)
+(connector
+	(pt 248 8)
+	(pt 248 40)
+)
+(connector
+	(pt 272 40)
+	(pt 272 56)
+)
+(connector
+	(pt 304 168)
+	(pt 304 120)
+)
+(connector
+	(pt 208 136)
+	(pt 264 136)
+)
+(connector
+	(pt 208 120)
+	(pt 304 120)
+)
+(connector
+	(pt 208 104)
+	(pt 328 104)
+)
+(connector
+	(pt 208 56)
+	(pt 272 56)
+)
+(connector
+	(pt 208 40)
+	(pt 248 40)
+)
+(connector
+	(pt 208 24)
+	(pt 224 24)
+)
+(connector
+	(pt 320 88)
+	(pt 320 520)
+)
+(connector
+	(pt 208 72)
+	(pt 296 72)
+)
+(connector
+>>>>>>> 12e7291ad286e2bd1994eeea31c919f8ba772ea4
 	(pt 272 40)
 	(pt 280 40)
 )
@@ -4156,6 +4218,17 @@ applicable agreement for further details.
 	(pt 280 552)
 )
 (connector
+<<<<<<< HEAD
+=======
+	(pt 296 24)
+	(pt 296 72)
+)
+(connector
+	(pt 296 72)
+	(pt 296 536)
+)
+(connector
+>>>>>>> 12e7291ad286e2bd1994eeea31c919f8ba772ea4
 	(pt 352 152)
 	(pt 352 504)
 )
@@ -4164,6 +4237,7 @@ applicable agreement for further details.
 	(pt 392 472)
 )
 (connector
+<<<<<<< HEAD
 	(pt 552 -160)
 	(pt 664 -160)
 )
@@ -4234,6 +4308,10 @@ applicable agreement for further details.
 (connector
 	(pt 328 152)
 	(pt 352 152)
+=======
+	(pt 392 280)
+	(pt 392 472)
+>>>>>>> 12e7291ad286e2bd1994eeea31c919f8ba772ea4
 )
 (connector
 	(pt 352 152)
@@ -4716,10 +4794,43 @@ applicable agreement for further details.
 	(pt 328 96)
 )
 (connector
+	(pt 552 -160)
+	(pt 664 -160)
+)
+(connector
+	(pt 552 -96)
+	(pt 664 -96)
+)
+(connector
+	(pt 552 -32)
+	(pt 664 -32)
+)
+(connector
+	(pt 552 32)
+	(pt 664 32)
+)
+(connector
+	(pt 552 96)
+	(pt 664 96)
+)
+(connector
+	(pt 552 224)
+	(pt 664 224)
+)
+(connector
+	(pt 552 160)
+	(pt 664 160)
+)
+(connector
+	(pt 560 280)
+	(pt 560 288)
+)
+(connector
 	(pt 264 280)
 	(pt 264 128)
 )
 (connector
+<<<<<<< HEAD
 	(pt 320 80)
 	(pt 208 80)
 )
@@ -4754,6 +4865,138 @@ applicable agreement for further details.
 (connector
 	(pt 320 88)
 	(pt 320 520)
+=======
+	(pt 392 280)
+	(pt 560 280)
+)
+(connector
+	(pt 552 288)
+	(pt 560 288)
+)
+(connector
+	(pt 560 288)
+	(pt 664 288)
+)
+(connector
+	(pt 552 216)
+	(pt 376 216)
+)
+(connector
+	(pt 552 216)
+	(pt 552 224)
+)
+(connector
+	(pt 376 168)
+	(pt 376 216)
+)
+(connector
+	(pt 376 216)
+	(pt 376 488)
+)
+(connector
+	(pt 552 152)
+	(pt 552 160)
+)
+(connector
+	(pt 328 152)
+	(pt 352 152)
+)
+(connector
+	(pt 352 152)
+	(pt 552 152)
+)
+(connector
+	(pt 552 88)
+	(pt 552 96)
+)
+(connector
+	(pt 208 88)
+	(pt 320 88)
+)
+(connector
+	(pt 320 88)
+	(pt 552 88)
+)
+(connector
+	(pt 552 24)
+	(pt 296 24)
+)
+(connector
+	(pt 552 24)
+	(pt 552 32)
+)
+(connector
+	(pt 552 -24)
+	(pt 280 -24)
+)
+(connector
+	(pt 552 -24)
+	(pt 552 -32)
+)
+(connector
+	(pt 552 -88)
+	(pt 256 -88)
+)
+(connector
+	(pt 552 -88)
+	(pt 552 -96)
+)
+(connector
+	(pt 552 -152)
+	(pt 232 -152)
+)
+(connector
+	(pt 552 -152)
+	(pt 552 -160)
+)
+(connector
+	(pt -128 152)
+	(pt -128 -408)
+)
+(connector
+	(pt -160 168)
+	(pt -160 -384)
+)
+(connector
+	(pt 112 168)
+	(pt -160 168)
+)
+(connector
+	(pt 112 152)
+	(pt -128 152)
+)
+(connector
+	(pt -976 -408)
+	(pt -128 -408)
+)
+(connector
+	(pt -976 -384)
+	(pt -160 -384)
+)
+(connector
+	(pt -976 -336)
+	(pt -456 -336)
+)
+(connector
+	(pt -976 -296)
+	(pt -440 -296)
+)
+(connector
+	(pt -456 -336)
+	(pt -456 176)
+)
+(connector
+	(pt -456 176)
+	(pt -456 304)
+)
+(connector
+	(pt -440 -296)
+	(pt -440 256)
+)
+(connector
+	(pt -440 256)
+	(pt -440 384)
+>>>>>>> 12e7291ad286e2bd1994eeea31c919f8ba772ea4
 )
 (junction (pt -408 216))
 (junction (pt -408 344))
@@ -4877,4 +5120,7 @@ applicable agreement for further details.
 (junction (pt 376 216))
 (junction (pt 392 280))
 (junction (pt 560 288))
+<<<<<<< HEAD
 (junction (pt 296 64))
+=======
+>>>>>>> 12e7291ad286e2bd1994eeea31c919f8ba772ea4
